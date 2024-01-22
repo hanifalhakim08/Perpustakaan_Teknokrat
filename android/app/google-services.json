@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1075143273299",
+    "firebase_url": "https://perpustakaan-teknokrat-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "perpustakaan-teknokrat",
+    "storage_bucket": "perpustakaan-teknokrat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075143273299:android:71fff83a86abb6555dcfa6",
+        "android_client_info": {
+          "package_name": "com.example.perpustakaan_teknokrat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6dT5FH6r9XAj5U4cl6CktVCJESrLWZXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
